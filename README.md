@@ -6,9 +6,9 @@ Instructions
 
 Install PySpark and import PySpark SQL functions for this assignment provided by the template.
 
-![alt text](<PySpark Ins-1.png>)
+![PySpark Ins](https://github.com/user-attachments/assets/7d696391-848d-4c30-aff6-10adb7f9e098)
 
-![alt text](<PySpark SQL.png>)
+![PySpark SQL](https://github.com/user-attachments/assets/93d6ec30-6fa4-4c81-b37a-fc1e9910caec)
 
 Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
 
